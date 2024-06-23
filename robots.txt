@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anubhavelhence.github.io/al-folio/sitemap.xml
+Sitemap: https://anubhavelhence.github.io/sitemap.xml
