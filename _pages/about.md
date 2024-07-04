@@ -18,7 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi Everyone
+Hi, I am Anubhav, a dynamic professional with rich experience in development and having strong leadership and interpersonal skills. My forte includes designing system architectures for IoT, ML, and Blockchain projects, as well as engaging in R&D for cutting-edge robots, drones, and cloud technologies. My skills also include making technical illustration and graphic designing. I am steadfast in my dedication to being a synergistic and constructive team player, and I am zealous in applying my erudition and coding aptitude to yield outstanding outcomes.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
