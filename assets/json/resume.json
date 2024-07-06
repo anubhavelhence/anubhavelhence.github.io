@@ -1,18 +1,18 @@
 {
     "basics": {
       "name": "Anubhav Elhence",
-      "label": "IoT, AI and Blockchain Design Engineer",
+      "label": "Embedded AI and IoT Systems Engineer",
       "image": "",
       "email": "anubhav.elhence@pilani.bits-pilani.ac.in",
       "phone": "+91-7388889308",
-      "url": "https://github.com/anubhavelhence",
+      "url": "https://anubhavelhence.github.io",
       "summary": "I am Anubhav, a dynamic professional with rich experience in development and having strong leadership and interpersonal skills. My forte includes designing system architectures for IoT, ML, and Blockchain projects, as well as engaging in R&D for cutting-edge robots, drones, and cloud technologies. My skills also include making technical illustration and graphic designing. I am steadfast in my dedication to being a synergistic and constructive team player, and I am zealous in applying my erudition and coding aptitude to yield outstanding outcomes.",
       "location": {
-        "address": "",
-        "postalCode": "",
-        "city": "",
+        "address": "BITS IoT Lab, FD-II, BITS Pilani",
+        "postalCode": "333031",
+        "city": "Pilani",
         "countryCode": "IN",
-        "region": ""
+        "region": "Rajasthan"
       },
       "profiles": [
         {
@@ -45,13 +45,14 @@
     "work": [
       {
         "name": "Advanced Micro Devices, Inc. (AMD)",
-        "position": "Full Chip Verification Team",
+        "position": "Design Engineer, Full Chip Verification Team",
         "url": "",
         "startDate": "2020-07-01",
         "endDate": "2022-02-01",
-        "summary": "• Coding test benches for verification of devices and IPs related to AI, High Speed Data Transfers, Video Codecs, Distributed Computing.\n• Developing Internal Tool for Automating the regression testing process. The tool had a GUI along with analysis and reporting capabilities.",
-        "highlights": []
-      },
+        "summary": "• Responsible for coding test benches for verifying the RTL of IPs related to high frame-rate video processing, real-time signal processing, high bandwidth IO, low latency control, and other hardware-accelerated algorithm IPs.\n• Played a key role in developing an internal tool to automate the regression testing process, which featured a GUI along with analysis and reporting capabilities.\n• Worked extensively on the DPU IP, a programmable engine dedicated to convolutional neural networks. The DPU IP includes a register configure module, data controller module, and convolution computing module with a specialized instruction set for efficient operation across various convolutional neural networks including VGG, ResNet, GoogLeNet, YOLO, SSD, MobileNet, and FPN.\n• Integrated the DPU IP with DDR memory based on the provided architectural diagram, ensuring optimal performance for deep learning applications.",
+        "highlights": ["Full Chip Verification"]
+      }
+      ,
       {
         "name": "BITS Pilani",
         "position": "PhD Scholar",
