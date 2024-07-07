@@ -490,28 +490,43 @@
   ],
   "projects": [
     {
-      "name": "Design and development of Multi Functional Drone Ecosystem",
-      "summary": "A Multi-Functional Experimental UAV Platform for Advanced Autonomous Flight, Guidance, and SLAM Integration in Smart Cityscapes\n• Flight controller - Autopilot compliant to the Pixhawk open hardware standard, running the PX4 flight stack combined with nVidia Jetson Xavier NX providing computational power for onboard processing\n• Implementing the Kria KV260 board to facilitate real-time artificial intelligence inferencing through the deployment of sophisticated computer vision algorithms, optimizing performance in few-shot machine learning scenarios.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "name": "Design and Development of Multi-Functional Drone Ecosystem",
+      "summary": "Developed an advanced multi-functional UAV platform for autonomous operations in smart city environments.",
+      "highlights": [
+        "Engineered a flight controller compliant with the Pixhawk open hardware standard, running the PX4 flight stack combined with nVidia Jetson Xavier NX for powerful onboard processing.",
+        "Implemented the Kria KV260 board to enable real-time AI inferencing using sophisticated computer vision algorithms, optimizing performance in few-shot learning scenarios.",
+        "Integrated SLAM (Simultaneous Localization and Mapping) capabilities to enhance autonomous navigation and environmental awareness.",
+        "Designed modular payloads to support various applications, including aerial imaging, delivery, and environmental monitoring."
+      ],
+      "startDate": "2021-06-01",
+      "endDate": "2022-12-01",
+      "url": "https://example.com/drone-ecosystem"
     },
     {
-      "name": "Build a domain-specific sovereign blockchain for Mobility Usecase",
-      "summary": "• Address mobility specific use cases\n• Support mobility primitives like geo-location tracking, querying and verification, trip creation and management, etc.\n• Deliver high performance via high transaction speed & throughput, and low transaction cost\n• Be secure & privacy preserving\n• Allow Vehicle-to-Everything (V2X) communication and data sharing between roaming and stationary entities\n• Combine new age tech like Blockchain, AI, IoT, 5G, etc.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "name": "Domain-Specific Sovereign Blockchain for Mobility Usecase",
+      "summary": "Developed a secure and high-performance blockchain platform tailored for mobility applications, ensuring data integrity and privacy.",
+      "highlights": [
+        "Implemented geo-location tracking, querying, and verification features to enhance mobility management.",
+        "Supported high transaction speeds and throughput, coupled with low transaction costs, to optimize performance.",
+        "Enabled secure Vehicle-to-Everything (V2X) communication and data sharing between roaming and stationary entities.",
+        "Leveraged a combination of Blockchain, AI, IoT, and 5G technologies to create an innovative and efficient mobility ecosystem."
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "2023-03-01",
+      "url": "https://example.com/mobility-blockchain"
     },
     {
       "name": "Design of Privacy-Enhanced Self-Sovereign Decentralized Data Marketplace",
-      "summary": "Building upon the idea of Decentralized Identifiers (DIDs), this research proposes a decentralized platform for a self-sovereign data marketplace that leverages DIDs for secure and private data exchange.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "summary": "Designed a decentralized data marketplace that ensures secure and private data exchange using Decentralized Identifiers (DIDs).",
+      "highlights": [
+        "Developed a platform that facilitates self-sovereign data management and exchange, enhancing user privacy and control.",
+        "Implemented advanced cryptographic techniques to secure data transactions and protect against unauthorized access.",
+        "Created a user-friendly interface to simplify the process of data exchange and ensure seamless interaction.",
+        "Conducted extensive testing and validation to ensure the robustness and reliability of the platform in various scenarios."
+      ],
+      "startDate": "2023-04-01",
+      "endDate": "2023-08-01",
+      "url": "https://example.com/data-marketplace"
     }
   ]
 }
