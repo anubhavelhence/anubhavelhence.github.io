@@ -70,6 +70,15 @@
       "endDate": "2023-08-01",
       "summary": "I was awarded the prestigious Australia-India Research Fellowship sponsored by Australian Government. I worked at the Cisco LaTrobe Centre for AI and IoT, LaTrobe University under the guidance of Prof Wei Xiang. ",
       "highlights": ["Successfully implemented a novel authentication scheme to enhance secure communication between UAVs and ground stations as well as between UAVs.","Collaborated closely with experts at the Cisco LaTrobe Centre for AI and IoT, leveraging cutting-edge AI and IoT technologies.","Conducted extensive research and development to ensure the robustness and reliability of the authentication scheme in various operational scenarios."]
+    },
+    {
+      "name": "National University of Singapore (NUS)",
+      "position": "Research Internship at CISCO-NUS Corporate Lab",
+      "url": "https://cisco-nus.nus.edu.sg/research/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-09-01",
+      "summary": "I was invited by Prof. Biplab Sikdar at the CISCO-NUS Corporate Lab, National University of Singapore, to work on an innovative project focusing on the application of AI in health insurance operations and medical teleconsultation. This collaborative effort resulted in the publication of two significant papers: A Blockchain and ML-Based Framework for Fast and Cost-Effective Health Insurance Industry Operations and Enabling Cost-Effective and Secure Minor Medical Teleconsultation Using Artificial Intelligence and Blockchain.",
+      "highlights": ["Contributed to the development of a blockchain and machine learning-based framework aimed at optimizing health insurance industry operations, reducing costs, and improving efficiency.","Implemented AI-driven solutions for secure and cost-effective minor medical teleconsultation, enhancing accessibility and patient outcomes.","Published two research papers detailing the methodologies and results of the project, which were well-received in the academic and professional communities."]
     }
   ],
   "education": [
