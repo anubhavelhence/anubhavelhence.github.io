@@ -55,21 +55,21 @@
     ,
     {
       "name": "BITS Pilani",
-      "position": "PhD Scholar",
+      "position": "PhD Scholar under the ASEAN India Collaborative Project",
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "Ongoing",
-      "summary": "• PhD topic “Enabling Drone Driven Smart Cities: Real time computer vision, Secure Communication and Data Fusion for Drones.”\n• Lab In-charge of IoT Tinker lab having funding of 80 lakhs INR.\n• Mentor of 9 students doing study-oriented and lab-oriented projects.\n• Co-instructor in Internet of Things course, Hardware Software Co-design course.",
-      "highlights": []
+      "summary": "My PhD is under the ASEAN India Collaborative Project funded by SERB DST, a collaborative initiative between Prof Vinay Chamola (PI), BITS Pilani, India, Prof Biplab Sikdar (Co-PI), National University of Singapore, and Prof Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Vietnam. My PhD topic is “Enabling Drone Driven Smart Cities: Real-time computer vision, Secure Communication, and Data Fusion for Drones.” ",
+      "highlights": ["Actively involved in high-impact research aimed at integrating drone technology into smart city infrastructures.", "Mentored over 20 students closely, guiding them on both study-oriented and lab-oriented projects.","Co-instructed lectures and lab sessions in courses such as Internet of Things, Hardware Software Co-design, and Microprocessor Programming and Interfacing.","Collaborated with international experts from the National University of Singapore and Hanoi University of Science and Technology.","Managed the IoT Tinker Lab, overseeing projects and ensuring effective use of the allocated 80 lakhs INR funding."]
     },
     {
-      "name": "LaTrobe University, Melbourne",
-      "position": "Australia-India Research Fellow",
-      "url": "",
+      "name": "LaTrobe University, Melbourne, Australia",
+      "position": "Australia-India Research Fellowship",
+      "url": "https://arch-india.org/australia-india-research-students-fellowship-program",
       "startDate": "2023-05-01",
-      "endDate": "Ongoing",
-      "summary": "• Cisco LaTrobe Centre for AI and IoT under Prof Wei Xiang\n• Hardware implementation of a Novel Authentication Scheme for UAV-Ground station and UAV-UAV communication",
-      "highlights": []
+      "endDate": "2023-08-01",
+      "summary": "I was awarded the prestigious Australia-India Research Fellowship sponsored by Australian Government. I worked at the Cisco LaTrobe Centre for AI and IoT, LaTrobe University under the guidance of Prof Wei Xiang. ",
+      "highlights": ["Successfully implemented a novel authentication scheme to enhance secure communication between UAVs and ground stations as well as between UAVs.","Collaborated closely with experts at the Cisco LaTrobe Centre for AI and IoT, leveraging cutting-edge AI and IoT technologies.","Conducted extensive research and development to ensure the robustness and reliability of the authentication scheme in various operational scenarios."]
     }
   ],
   "education": [
