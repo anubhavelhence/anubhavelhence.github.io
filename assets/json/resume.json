@@ -46,7 +46,7 @@
     {
       "name": "Advanced Micro Devices, Inc. (AMD)",
       "position": "Design Engineer",
-      "url": "",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
       "startDate": "2020-07-01",
       "endDate": "2022-02-01",
       "summary": "Worked for the Full Chip Verification Team at AMD, a leading semiconductor company that acquired Xilinx, the leader in adaptive and intelligent computing. Originally employed by Xilinx through campus placement at BITS Pilani",
@@ -56,7 +56,7 @@
     {
       "name": "BITS Pilani",
       "position": "PhD Scholar under the ASEAN India Collaborative Project",
-      "url": "",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
       "startDate": "2022-02-01",
       "endDate": "Ongoing",
       "summary": "My PhD is under the ASEAN India Collaborative Project funded by SERB DST, a collaborative initiative between Prof Vinay Chamola (PI), BITS Pilani, India, Prof Biplab Sikdar (Co-PI), National University of Singapore, and Prof Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Vietnam. My PhD topic is “Enabling Drone Driven Smart Cities: Real-time computer vision, Secure Communication, and Data Fusion for Drones.” ",
@@ -84,48 +84,37 @@
   "education": [
     {
       "institution": "BITS Pilani",
-      "location": "Pilani, India",
-      "url": "",
-      "area": "Electronics and Instrumentation",
-      "studyType": "B.E.",
+      "location": "Pilani, RJ, India",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
+      "area": "",
+      "studyType": "B.E. in Electronics and Instrumentation",
       "startDate": "2015-08-01",
       "endDate": "2020-05-01",
-      "score": "9.28",
-      "courses": []
+      "score": "9.20",
+      "courses": ["Computer Architecture", "Embedded System Design","Microprocessor Programming and Interfacing","Hardware Software Codesign", "Deep Learning"]
     },
     {
       "institution": "BITS Pilani",
-      "location": "Pilani, India",
-      "url": "",
-      "area": "Physics",
-      "studyType": "M.Sc. (Hons)",
+      "location": "Pilani, RJ, India",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
+      "area": "",
+      "studyType": "M.Sc.(Hons) in Physics",
       "startDate": "2015-08-01",
       "endDate": "2020-05-01",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "City Montessori School",
-      "location": "",
-      "url": "",
-      "area": "",
-      "studyType": "ISC Board",
-      "startDate": "",
-      "endDate": "2015-01-01",
-      "score": "97.5%",
-      "courses": []
-    },
-    {
-      "institution": "City Montessori School",
-      "location": "",
-      "url": "",
-      "area": "",
-      "studyType": "ICSE Board",
-      "startDate": "",
-      "endDate": "2013-01-01",
-      "score": "95.0%",
-      "courses": []
+      "score": "9.20",
+      "courses": ["Quantum Physics", "Quantum Computing", "Classical Mechanics","Statistical Mechanics","Nuclear Physics"]
     }
+    // {
+    //   "institution": "City Montessori School",
+    //   "location": "Lucknow, UP, India",
+    //   "url": "",
+    //   "area": "",
+    //   "studyType": "ISC board",
+    //   "startDate": "2013-03-01",
+    //   "endDate": "2015-01-01",
+    //   "score": "97.5%",
+    //   "courses": []
+    // }
   ],
   "awards": [
     {
