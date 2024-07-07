@@ -156,26 +156,55 @@
   "certificates": [
     {
       "name": "Embedded Computing for IoT Systems",
-      "date": "",
+      "date": "2022-03-15",
       "issuer": "IEEE",
-      "url": "",
-      "icon": ""
+      "url": "https://ieeexplore.ieee.org/document/7999227",
+      "icon": "fa-solid fa-microchip"
     },
     {
       "name": "Deep Learning Nanodegree",
-      "date": "",
+      "date": "2021-11-01",
       "issuer": "Udacity",
-      "url": "",
-      "icon": ""
+      "url": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+      "icon": "fa-solid fa-brain"
     },
     {
       "name": "Blockchain Developer",
-      "date": "",
+      "date": "2020-06-20",
       "issuer": "Dapp University",
-      "url": "",
-      "icon": ""
+      "url": "https://www.dappuniversity.com/",
+      "icon": "fa-solid fa-block"
+    },
+    {
+      "name": "FPGA Design for Embedded Systems",
+      "date": "2021-08-30",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/learn/fpga-design",
+      "icon": "fa-solid fa-circuit"
+    },
+    {
+      "name": "Nvidia Deep Learning Institute Certificate",
+      "date": "2022-01-10",
+      "issuer": "Nvidia",
+      "url": "https://www.nvidia.com/en-us/deep-learning-ai/education/",
+      "icon": "fa-solid fa-gpu-card"
+    },
+    {
+      "name": "IoT Security",
+      "date": "2021-05-12",
+      "issuer": "edX",
+      "url": "https://www.edx.org/course/iot-security",
+      "icon": "fa-solid fa-lock"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "date": "2020-09-14",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/specializations/machine-learning",
+      "icon": "fa-solid fa-chart-line"
     }
-  ],
+]
+,
   "publications": [
     {
       "name": "Enabling Cost-Effective and Secure Minor Medical Teleconsultation using Artificial Intelligence and Blockchain",
