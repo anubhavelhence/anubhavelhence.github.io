@@ -119,31 +119,38 @@
   "awards": [
     {
       "title": "KVPY Scholar, IISc Bangalore",
-      "date": "",
+      "date": "2016-04-01",
       "awarder": "IISc Bangalore and Dept of Science and Technology, India",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
+      "summary": "Awarded the prestigious KVPY Scholarship by IISc Bangalore and the Dept of Science and Technology, India, recognizing brilliant students pursuing a career in scientific research."
+    },
+    {
+      "title": "Xilinx Innovator Award",
+      "date": "2021-08-01",
+      "awarder": "Xilinx India Pvt. Ltd.",
       "url": "",
-      "summary": "Prestigious Scholarship given by IISc Bangalore and Dept of Science and Technology, India to Brilliant students pursuing scientific research."
+      "summary": "Awarded for developing an internal tool to automate the regression testing process, which featured a GUI along with analysis and reporting capabilities"
     },
     {
       "title": "Sakura Science Scholarship",
-      "date": "",
+      "date": "2018-06-01",
       "awarder": "Japanese Science and Technology Agency",
       "url": "",
-      "summary": "Funded by Japanese Science and Technology Agency to cultivate collaborative research between India and Japan."
+      "summary": "Awarded the prestigious Sakura Science Scholarship by the Japanese Science and Technology Agency, recognizing top students for fostering groundbreaking collaborative research between India and Japan"
     },
     {
       "title": "Australia India Research Fellow 2023",
-      "date": "2023",
+      "date": "2023-05-01",
       "awarder": "Australia Dept of Education",
       "url": "",
-      "summary": "Selected for prestigious fellowship granted by Australia Dept of Education for pursuing short term research in Australia awarded to top 30 research scholars all over India."
+      "summary": "Awarded the prestigious Australia India Research Fellowship 2023 by the Australia Dept of Education, including a $10,000 grant, recognizing top 30 PhD research scholars across India for short-term research in Australia."
     },
     {
-      "title": "Delegate for Nobel Laureates Convention, Gujrat",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": "Awarded prize for presenting innovative solution for Brain Computer Interfacing using Spatio-Generative Matrix based Reinforcement Learning"
+      "title": "Student Delegate for Nobel Laureates Convention, Vibrant Gujrat Global Summit",
+      "date": "2016-03-01",
+      "awarder": "Government of india",
+      "url": "https://linkedin.com/in/anubhavelhence?originalSubdomain=in",
+      "summary": "Selected as student delegate for participating in Nobel Laureates Convention and was awarded third prize for presenting innovative solution for Brain Computer Interfacing using Spatio-Generative Matrix based Reinforcement Learning"
     }
   ],
   "certificates": [
