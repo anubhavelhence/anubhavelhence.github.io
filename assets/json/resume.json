@@ -50,9 +50,13 @@
       "startDate": "2020-07-01",
       "endDate": "2022-02-01",
       "summary": "Worked for the Full Chip Verification Team at AMD, a leading semiconductor company that acquired Xilinx, the leader in adaptive and intelligent computing. Originally employed by Xilinx through campus placement at BITS Pilani",
-      "highlights": ["Responsible for coding test benches for verifying the RTL of IPs related to high frame-rate video processing, real-time signal processing, high bandwidth IO, low latency control, and other hardware-accelerated algorithm IPs.","Played a key role in developing an internal tool to automate the regression testing process, which featured a GUI along with analysis and reporting capabilities.","Worked extensively on the DPU IP, a programmable engine dedicated to convolutional neural networks. The DPU IP includes a register configure module, data controller module, and convolution computing module with a specialized instruction set for efficient operation across various convolutional neural networks including VGG, ResNet, GoogLeNet, YOLO, SSD, MobileNet, and FPN.","Integrated the DPU IP with DDR memory based on the provided architectural diagrams, ensuring optimal performance for deep learning applications."]
-    }
-    ,
+      "highlights": [
+        "Responsible for coding test benches for verifying the RTL of IPs related to high frame-rate video processing, real-time signal processing, high bandwidth IO, low latency control, and other hardware-accelerated algorithm IPs.",
+        "Played a key role in developing an internal tool to automate the regression testing process, which featured a GUI along with analysis and reporting capabilities.",
+        "Worked extensively on the DPU IP, a programmable engine dedicated to convolutional neural networks. The DPU IP includes a register configure module, data controller module, and convolution computing module with a specialized instruction set for efficient operation across various convolutional neural networks including VGG, ResNet, GoogLeNet, YOLO, SSD, MobileNet, and FPN.",
+        "Integrated the DPU IP with DDR memory based on the provided architectural diagrams, ensuring optimal performance for deep learning applications."
+      ]
+    },
     {
       "name": "BITS Pilani",
       "position": "PhD Scholar under the ASEAN India Collaborative Project",
@@ -60,7 +64,13 @@
       "startDate": "2022-02-01",
       "endDate": "Ongoing",
       "summary": "My PhD is under the ASEAN India Collaborative Project funded by SERB DST, a collaborative initiative between Prof Vinay Chamola (PI), BITS Pilani, India, Prof Biplab Sikdar (Co-PI), National University of Singapore, and Prof Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Vietnam. My PhD topic is “Enabling Drone Driven Smart Cities: Real-time computer vision, Secure Communication, and Data Fusion for Drones.” ",
-      "highlights": ["Actively involved in high-impact research aimed at integrating drone technology into smart city infrastructures.", "Mentored over 20 students closely, guiding them on both study-oriented and lab-oriented projects.","Co-instructed lectures and lab sessions in courses such as Internet of Things, Hardware Software Co-design, and Microprocessor Programming and Interfacing.","Collaborated with international experts from the National University of Singapore and Hanoi University of Science and Technology.","Managed the IoT Tinker Lab, overseeing projects and ensuring effective use of the allocated 80 lakhs INR funding."]
+      "highlights": [
+        "Actively involved in high-impact research aimed at integrating drone technology into smart city infrastructures.",
+        "Mentored over 20 students closely, guiding them on both study-oriented and lab-oriented projects.",
+        "Co-instructed lectures and lab sessions in courses such as Internet of Things, Hardware Software Co-design, and Microprocessor Programming and Interfacing.",
+        "Collaborated with international experts from the National University of Singapore and Hanoi University of Science and Technology.",
+        "Managed the IoT Tinker Lab, overseeing projects and ensuring effective use of the allocated 80 lakhs INR funding."
+      ]
     },
     {
       "name": "LaTrobe University, Melbourne, Australia",
@@ -69,7 +79,11 @@
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
       "summary": "I was awarded the prestigious Australia-India Research Fellowship sponsored by Australian Government. I worked at the Cisco LaTrobe Centre for AI and IoT, LaTrobe University under the guidance of Prof Wei Xiang. ",
-      "highlights": ["Successfully implemented a novel authentication scheme to enhance secure communication between UAVs and ground stations as well as between UAVs.","Collaborated closely with experts at the Cisco LaTrobe Centre for AI and IoT, leveraging cutting-edge AI and IoT technologies.","Conducted extensive research and development to ensure the robustness and reliability of the authentication scheme in various operational scenarios."]
+      "highlights": [
+        "Successfully implemented a novel authentication scheme to enhance secure communication between UAVs and ground stations as well as between UAVs.",
+        "Collaborated closely with experts at the Cisco LaTrobe Centre for AI and IoT, leveraging cutting-edge AI and IoT technologies.",
+        "Conducted extensive research and development to ensure the robustness and reliability of the authentication scheme in various operational scenarios."
+      ]
     },
     {
       "name": "National University of Singapore (NUS)",
@@ -78,7 +92,11 @@
       "startDate": "2022-06-01",
       "endDate": "2023-09-01",
       "summary": "I was invited by Prof. Biplab Sikdar at the CISCO-NUS Corporate Lab, National University of Singapore, to work on an innovative project focusing on the application of AI in health insurance operations and medical teleconsultation. This collaborative effort resulted in the publication of two significant papers: A Blockchain and ML-Based Framework for Fast and Cost-Effective Health Insurance Industry Operations and Enabling Cost-Effective and Secure Minor Medical Teleconsultation Using Artificial Intelligence and Blockchain.",
-      "highlights": ["Contributed to the development of a blockchain and machine learning-based framework aimed at optimizing health insurance industry operations, reducing costs, and improving efficiency.","Implemented AI-driven solutions for secure and cost-effective minor medical teleconsultation, enhancing accessibility and patient outcomes.","Published two research papers detailing the methodologies and results of the project, which were well-received in the academic and professional communities."]
+      "highlights": [
+        "Contributed to the development of a blockchain and machine learning-based framework aimed at optimizing health insurance industry operations, reducing costs, and improving efficiency.",
+        "Implemented AI-driven solutions for secure and cost-effective minor medical teleconsultation, enhancing accessibility and patient outcomes.",
+        "Published two research papers detailing the methodologies and results of the project, which were well-received in the academic and professional communities."
+      ]
     }
   ],
   "education": [
@@ -91,7 +109,13 @@
       "startDate": "2015-08-01",
       "endDate": "2020-05-01",
       "score": "9.20",
-      "courses": ["Computer Architecture", "Embedded System Design","Microprocessor Programming and Interfacing","Hardware Software Codesign", "Deep Learning"]
+      "courses": [
+        "Computer Architecture",
+        "Embedded System Design",
+        "Microprocessor Programming and Interfacing",
+        "Hardware Software Codesign",
+        "Deep Learning"
+      ]
     },
     {
       "institution": "BITS Pilani",
@@ -102,7 +126,13 @@
       "startDate": "2015-08-01",
       "endDate": "2020-05-01",
       "score": "9.20",
-      "courses": ["Quantum Physics", "Quantum Computing", "Classical Mechanics","Statistical Mechanics","Nuclear Physics"]
+      "courses": [
+        "Quantum Physics",
+        "Quantum Computing",
+        "Classical Mechanics",
+        "Statistical Mechanics",
+        "Nuclear Physics"
+      ]
     }
     // {
     //   "institution": "City Montessori School",
@@ -203,8 +233,7 @@
       "url": "https://www.coursera.org/specializations/machine-learning",
       "icon": "fa-solid fa-chart-line"
     }
-]
-,
+  ],
   "publications": [
     {
       "name": "Enabling Cost-Effective and Secure Minor Medical Teleconsultation using Artificial Intelligence and Blockchain",
@@ -252,103 +281,213 @@
   "skills": [
     {
       "name": "Machine Learning",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Model Optimization",
+        "Convolutional Neural Networks",
+        "Transfer Learning"
+      ]
     },
     {
-      "name": "Distributed Computing and Cryptography",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "Embedded Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "FPGA",
+        "Microcontrollers",
+        "Real-Time Systems",
+        "Verilog Coding",
+        "VHDL"
+      ]
     },
     {
-      "name": "Designing System Architectures and Communication Flows",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "IoT Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Sensor Networks",
+        "IoT Protocols",
+        "Edge Computing",
+        "IoT Security",
+        "Wireless Communication"
+      ]
     },
     {
-      "name": "Android/ IOS App Development",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "Nvidia CUDA and DPU",
+      "level": "Advanced",
+      "icon": "fa-solid fa-gpu-card",
+      "keywords": [
+        "Parallel Computing",
+        "GPU Acceleration",
+        "Deep Learning Processor Unit",
+        "CUDA Programming",
+        "TensorRT"
+      ]
     },
     {
-      "name": "Full Stack Web development",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "Distributed Computing",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "Hadoop",
+        "Spark",
+        "Distributed Algorithms",
+        "MapReduce",
+        "Cluster Management"
+      ]
     },
     {
-      "name": "Javascript, Python, C++, GoLang",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "Programming Languages",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "Verilog",
+        "GoLang"
+      ]
     },
     {
-      "name": "Embedded Systems & Verilog Coding",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "System Architecture Design",
+      "level": "Advanced",
+      "icon": "fa-solid fa-drafting-compass",
+      "keywords": [
+        "System Design",
+        "Communication Flows",
+        "Hardware-Software Co-design",
+        "System Integration",
+        "Scalability"
+      ]
     },
     {
-      "name": "Illustration and Layout Planning",
-      "level": "",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "Video Making and Motion Graphics",
-      "level": "",
-      "icon": "",
-      "keywords": []
+      "name": "Blockchain Technology",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-chain",
+      "keywords": [
+        "Smart Contracts",
+        "Blockchain for IoT",
+        "Decentralized Applications",
+        "Cryptography",
+        "Consensus Algorithms"
+      ]
     }
   ],
   "languages": [],
   "interests": [
     {
       "name": "Cyber Physical Systems",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Integration of Computation",
+        "Networking",
+        "Physical Processes",
+        "Control Systems"
+      ]
     },
     {
       "name": "Edge Computing",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Local Data Processing",
+        "Low Latency",
+        "IoT Edge Devices",
+        "Edge AI"
+      ]
     },
     {
       "name": "Drone Technology",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "Peer to Peer Networks",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-drone",
+      "keywords": [
+        "UAVs",
+        "Autonomous Flight",
+        "Aerial Imaging",
+        "Drone Swarms"
+      ]
     },
     {
       "name": "Industry 4.0",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-industry",
+      "keywords": [
+        "Smart Manufacturing",
+        "IoT in Industry",
+        "Automation",
+        "Industrial AI"
+      ]
     },
     {
       "name": "Advanced Driver Assistance Systems",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-car",
+      "keywords": [
+        "Autonomous Vehicles",
+        "Driver Safety",
+        "ADAS Sensors",
+        "Vehicle-to-Everything (V2X)"
+      ]
     },
     {
       "name": "Autonomous Systems",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Self-driving Technology",
+        "Robotics",
+        "AI-driven Automation",
+        "Sensor Fusion"
+      ]
     },
     {
       "name": "Quantum Computing",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-atom",
+      "keywords": [
+        "Quantum Algorithms",
+        "Quantum Cryptography",
+        "Quantum Machine Learning",
+        "Quantum Hardware"
+      ]
+    },
+    {
+      "name": "IoT Security",
+      "icon": "fa-solid fa-lock",
+      "keywords": [
+        "Secure Communication",
+        "Data Privacy",
+        "IoT Vulnerabilities",
+        "Security Protocols"
+      ]
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "name": "Dr. Vinay Chamola",
+      "position": "PhD Supervisor",
+      "institution": "BITS Pilani",
+      "email": "vinay.chamola@pilani.bits-pilani.ac.in",
+      "phone": "+91-1234567890",
+      "relationship": "PhD Supervisor",
+      "comments": "Dr. Vinay Chamola supervised my PhD research, guiding me in the project on enabling drone-driven smart cities through real-time computer vision, secure communication, and data fusion for drones."
+    },
+    {
+      "name": "Pratik Narang",
+      "position": "Instructor",
+      "institution": "BITS Pilani",
+      "email": "pratik.narang@pilani.bits-pilani.ac.in",
+      "phone": "+91-1234567891",
+      "relationship": "Instructor in Deep Learning",
+      "comments": "Pratik Narang taught me Deep Learning and has been instrumental in shaping my understanding and application of machine learning techniques in various projects."
+    },
+    {
+      "name": "Sushant Gaonkar",
+      "position": "Manager",
+      "institution": "AMD",
+      "email": "sushant.gaonkar@amd.com",
+      "phone": "+1-234-567-8901",
+      "relationship": "Manager at AMD",
+      "comments": "Sushant Gaonkar was my manager at AMD, where I worked on the Full Chip Verification Team, contributing to the development of test benches and the verification of various IPs."
+    }
+  ],
   "projects": [
     {
       "name": "Design and development of Multi Functional Drone Ecosystem",
