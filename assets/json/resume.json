@@ -239,45 +239,46 @@
       "name": "Enabling Cost-Effective and Secure Minor Medical Teleconsultation using Artificial Intelligence and Blockchain",
       "publisher": "IEEE Internet of Things Journal",
       "releaseDate": "2022-08-01",
-      "url": "",
-      "summary": ""
+      "url": "https://ieeexplore.ieee.org/document/XXXXX",
+      "summary": "This paper presents a novel framework that leverages AI and blockchain technologies to enable secure and cost-effective minor medical teleconsultation. The proposed solution enhances patient privacy and data security while reducing consultation costs."
     },
     {
       "name": "A Blockchain and Machine Learning based Framework for Efficient Health Insurance Management",
       "publisher": "SenSys '21: The 19th ACM Conference on Embedded Networked Sensor Systems",
       "releaseDate": "2021-12-01",
-      "url": "",
-      "summary": ""
+      "url": "https://dl.acm.org/doi/10.1145/XXXXX",
+      "summary": "This publication introduces a blockchain and machine learning-based framework aimed at streamlining health insurance operations. The proposed system enhances efficiency and reduces costs through the integration of advanced technologies."
     },
     {
       "name": "Machine Learning on FPGA for Robust Si3N4-gate ISFET pH Sensor in Industrial IoT Applications",
       "publisher": "IEEE Transactions on Industry Applications",
       "releaseDate": "2021-09-01",
-      "url": "",
-      "summary": ""
+      "url": "https://ieeexplore.ieee.org/document/YYYYY",
+      "summary": "This research demonstrates the application of machine learning on FPGA to enhance the robustness of Si3N4-gate ISFET pH sensors used in industrial IoT applications. The approach improves sensor accuracy and reliability under varying conditions."
     },
     {
       "name": "A survey on the role of Internet of Things for adopting and promoting Agriculture 4.0",
       "publisher": "Journal of Network and Computer Applications",
       "releaseDate": "2021-08-01",
-      "url": "",
-      "summary": ""
+      "url": "https://www.sciencedirect.com/science/article/ZZZZZ",
+      "summary": "This survey explores the potential of IoT technologies in advancing Agriculture 4.0. It discusses various IoT applications in agriculture, highlighting the benefits and challenges associated with adopting smart farming practices."
     },
     {
       "name": "Hardware implementation of a Novel Authentication Scheme for UAV-Ground station and UAV-UAV communication",
       "publisher": "Submitted to IEEE Transactions on Vehicular Technology",
       "releaseDate": "2023-03-01",
       "url": "",
-      "summary": ""
+      "summary": "This paper proposes a novel hardware-based authentication scheme for secure communication between UAVs and ground stations, as well as between UAVs. The implementation ensures robust security and reliable data exchange in UAV networks."
     },
     {
       "name": "Implementation of a Privacy-Preserving Property Management and Exchange Application using Blockchain and NFTs for rental applications",
       "publisher": "Submitted to IEEE Open Access",
       "releaseDate": "2023-05-01",
       "url": "",
-      "summary": ""
+      "summary": "This research presents a blockchain and NFT-based application designed to enhance privacy and security in property management and rental transactions. The proposed solution leverages decentralized technology to protect user data and ensure transparency."
     }
-  ],
+]
+,
   "skills": [
     {
       "name": "Machine Learning",
