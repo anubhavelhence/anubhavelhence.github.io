@@ -2,24 +2,24 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: classes, workshops, and teaching materials
 nav: true
 nav_order: 5
 ---
 
 
 <h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
-<!-- COMP 541 (Digital Logic and Computer Design) -->
+<!-- EEE G611 (Hardware Software Codesign) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Digital Logic and Computer Design</h5>
-        <h6 class="card-subtitle font-italic">Volunteer (F23, W22)</h6>
+        <h5 id="comp311" class="card-title">Hardware Software Codesign</h5>
+        <h6 class="card-subtitle font-italic">Head TA and Co-Instructor</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          541
+          EEE G611
         </span>
       </div>
     </div>
