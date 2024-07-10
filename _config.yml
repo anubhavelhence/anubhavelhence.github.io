@@ -8,12 +8,10 @@ middle_name:
 last_name: Elhence
 email: elhenceanubhav@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A very simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Dynamic PhD candidate specializing in embedded AI and model optimization with extensive experience in drone technology, secure communication, and IoT systems.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Copyright ©️ Anubhav Elhence | Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: Embedded AI, Model Optimization, IoT Systems, Drone Technology, Secure Communication # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -111,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -132,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: FPGA BUG # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Explore my blog for insights and updates on embedded AI, model optimization, IoT systems, drone technology, and secure communication.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -168,10 +166,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    posts:
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-1-c8cc819299b7
+        published_date: 2024-05-14
   - name: Google Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-1-c8cc819299b7
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
