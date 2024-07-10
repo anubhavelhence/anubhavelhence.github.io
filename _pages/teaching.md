@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
+<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">BITS Pilani</a></h3>
 <!-- EEE G611 (Hardware Software Codesign) -->
 <div class="card mt-3">
   <div class="p-3">
