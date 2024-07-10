@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Here you can find my publications, sorted in reverse chronological order, showcasing my contributions to AI, IoT, and blockchain research.
 nav: true
 nav_order: 2
