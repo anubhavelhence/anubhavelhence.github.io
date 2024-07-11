@@ -167,12 +167,25 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     posts:
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-7-nvidia-tensorrt-5b1303c265b9
+        # published_date: 2024-05-14
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-6-quantization-aa65ff0af4de
+        # published_date: 2024-05-14
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-4-pruning-and-sparsity-a1bbae1620a4
+        # published_date: 2024-05-14
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-3-deep-learning-basics-for-optimization-a0f4f329bf52
+        published_date: 2024-05-14
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-3-edge-ai-on-nvidia-jetson-32c5eb91785e
+        published_date: 2024-05-14
+      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-2-gpu-and-cuda-programming-ead4f9f9f0a2
+        published_date: 2024-05-14
       - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-1-c8cc819299b7
         published_date: 2024-05-14
-  - name: Google Blog
-    posts:
-      - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-1-c8cc819299b7
-        published_date: 2024-05-14
+
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://medium.com/@elhencecourses/hardware-software-codesign-for-edge-ai-lecture-1-c8cc819299b7
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter

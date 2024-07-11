@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: classes, workshops, and teaching materials
+description: Classes, workshops, and teaching materials
 nav: true
 nav_order: 5
 ---
 
+<h3 style="color: #4b9cd3;" id="unc"><a href="https://bits-pilani.ac.in">BITS Pilani</a></h3>
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">BITS Pilani</a></h3>
 <!-- EEE G611 (Hardware Software Codesign) -->
 <div class="card mt-3">
   <div class="p-3">
