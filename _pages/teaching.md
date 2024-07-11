@@ -2,20 +2,20 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Classes, workshops, and teaching materials
+description: Lectures, workshops, and teaching materials
 nav: true
 nav_order: 5
 ---
 
 <h3 style="color: #4b9cd3;" id="unc"><a href="https://bits-pilani.ac.in">BITS Pilani</a></h3>
 
-<!-- EEE G611 (Hardware Software Codesign) -->
+<!-- EEE G611 (Hardware Software Codesign 2024) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Hardware Software Codesign</h5>
-        <h6 class="card-subtitle font-italic">Head TA and Co-Instructor</h6>
+        <h5 id="comp311" class="card-title">Hardware Software Codesign (Ongoing)</h5>
+        <h6 class="card-subtitle font-italic">Fall Sem 2024 | Head TA and Co-Instructor</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
