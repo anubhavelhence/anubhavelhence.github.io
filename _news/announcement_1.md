@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-10 08:30:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Co-authored a research paper on "Hardware-Accelerated YOLOX for Real-Time Wildfire Detection on Cutting-Edge UAV Platforms," under review for the IEEE International Symposium on High-Performance Computer Architecture. :fire: :robot:
