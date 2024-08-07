@@ -19,6 +19,64 @@ nav_order: 5
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
+          EEE G616
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Delivered 20 lectures to approximately 60 students in the M.Tech program for Embedded Systems and Microelectronics, emphasizing practical, hands-on learning with a particular focus on accelerating machine learning models through hardware-software co-design approaches. Utilized industry-leading tools such as Kria KV260 boards and Nvidia Jetson.
+          </div>
+          <div class="col-sm-3">
+            <a href="/projects/hw-sw-codesign">HW-SW Codesign</a>&nbsp;(<a href="https://github.com/anubhavelhence/hw-sw-codesign">GitHub</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- EEE F414 (Internet of Things 2024) -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="iot414" class="card-title">Internet of Things (Ongoing)</h5>
+        <h6 class="card-subtitle font-italic">Fall Sem 2024 | Head TA and Lab Incharge</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          EEE F414
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Created comprehensive lab tutorial videos utilizing Raspberry Pi, Flask, Arduino, and Node MCU to facilitate practical learning. Instructed students on MQTT protocol, Websockets, and other relevant IoT networking concepts through practical demonstrations and hands-on activities. Managed and coordinated lab sessions, ensuring students had access to necessary resources and support for their projects.
+          </div>
+          <div class="col-sm-3">
+            <a href="/projects/iot-course">IoT Course</a>&nbsp;(<a href="https://github.com/anubhavelhence/iot-course">GitHub</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- <div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Hardware Software Codesign (Ongoing)</h5>
+        <h6 class="card-subtitle font-italic">Fall Sem 2024 | Head TA and Co-Instructor</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
           EEE G611
         </span>
       </div>
@@ -36,10 +94,10 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- COMP 311 (Computer Organization) -->
-<div class="card mt-3">
+<!-- <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -118,10 +176,10 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- COMP 210 (Data Structures and Analysis) -->
-<div class="card mt-3">
+<!-- <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -156,10 +214,10 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- COMP 110 (Introduction to Programming and Data Science) -->
-<div class="card mt-3">
+<!-- <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -201,12 +259,12 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <br>
 
 <!-- ACT -->
-<h3 id="self-employed">Self-employed</h3>
+<!-- <h3 id="self-employed">Self-employed</h3>
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -252,7 +310,7 @@ nav_order: 5
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- Separation before Giscus comments -->
 <br>
